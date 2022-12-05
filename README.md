@@ -1,0 +1,2 @@
+# SchoolManagmentSystem
+ scd university project
